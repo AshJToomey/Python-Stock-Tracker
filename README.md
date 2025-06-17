@@ -59,7 +59,6 @@ stock-tracker/
 
 ├── README.md             # Project readme
 
-├── screenshots/          # Optional: chart images for GitHub preview
 
 ## 📜 License
 This project is licensed under the MIT License.
